@@ -1,8 +1,10 @@
 ![MasterHead](https://i.imgur.com/2NOZvY6.gif)
 <h1 align="center">Hi 👋, I'm Ijaz Driscoll</h1>
 <h3 align="center">I believe software rules the world and I want to help shape it.</h3>
-<img align="right" alt="Coding" width="500" src="https://wallpapercave.com/uwp/uwp1465036.gif">
+
+<img align="right" alt="Coding" width="450" src="https://wallpapercave.com/uwp/uwp1465036.gif">
 <!-- https://i.imgur.com/2NOZvY6.gif -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-six&label=Profile%20views&color=0e75b6&style=flat" alt="the-six" /> </p>
 
 - 🔭 I’m currently working on [my-portfolio](https://github.com/The-Six/my-portfolio)
 
