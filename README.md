@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on [my-portfolio](https://github.com/The-Six/my-portfolio)
 
-- 🌱 I’m currently learning **NCFE L3 Certificate in Coding Practices.**
+- 🌱 I’m currently learning ****
 
 - 💬 Ask me about **Next.js, JavaScript, HTML5, CSS3 and Git.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ijaz-driscoll-9709541b9/**
 
-- ⚡ Fun fact **I read classics for fun (Hemingway, Tolstoy and Dostoevsky).**
+- ⚡ I'm currently reading **You Don't Know JS Yet: Get Started by Kyle Simpson**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
