@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/ijaz-driscoll-9709541b9/**
 
-- ⚡ I'm currently reading **You Don't Know JS Yet: Get Started by Kyle Simpson**
+- ⚡ I'm currently reading **You Don't Know JS Yet: Get Started** by <i>Kyle Simpson</i>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
