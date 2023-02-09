@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ijaz Driscoll</h1>
 <h3 align="center">I believe software rules the world and I want to help shape it.</h3>
 
-<img align="right" alt="Coding" width="auto" src="https://i.pinimg.com/originals/c7/06/40/c70640aff0eb6a0689176333326f96fa.gif" />
+<img align="right" alt="Coding" width="auto" src="https://thumbs.gfycat.com/BlaringRareHarpyeagle-max-1mb.gif" />
 <!-- https://wallpapercave.com/uwp/uwp1465036.gif -->
 <!-- https://i.imgur.com/2NOZvY6.gif -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-six&label=Profile%20views&color=0e75b6&style=flat" alt="the-six" /> </p>
