@@ -3,6 +3,7 @@
 <h3 align="center">I believe software rules the world and I want to help shape it.</h3>
 
 <img align="right" alt="Coding" width="450" src="https://wallpapercave.com/uwp/uwp1465036.gif">
+<!-- https://wallpapercave.com/uwp/uwp1465036.gif -->
 <!-- https://i.imgur.com/2NOZvY6.gif -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-six&label=Profile%20views&color=0e75b6&style=flat" alt="the-six" /> </p>
 
