@@ -1,4 +1,5 @@
-![MasterHead](https://i.imgur.com/2NOZvY6.gif)
+![MasterHead](https://media.tenor.com/1UGFVOImuccAAAAd/kirokaze.gif)
+<!-- https://i.imgur.com/2NOZvY6.gif -->
 <h1 align="center">Hi 👋, I'm Ijaz Driscoll</h1>
 <h3 align="center">I believe software rules the world and I want to help shape it.</h3>
 
