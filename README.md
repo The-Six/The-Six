@@ -1,7 +1,7 @@
 ![MasterHead](https://thumbs.gfycat.com/BlindAmusedGiraffe-size_restricted.gif)
 <!-- https://i.imgur.com/2NOZvY6.gif -->
 <h1 align="center">Hi 👋, I'm Ijaz Driscoll</h1>
-<h3 align="center">I believe software rules the world and I want to help shape it.</h3>
+<h3 align="center">"Running up that hill" Kate Bush- </h3>
 
 <img align="right" alt="Coding" width="auto" src="https://media.tenor.com/H491P3ZD79UAAAAC/kirokaze.gif" />
 <!-- https://wallpapercave.com/uwp/uwp1465036.gif -->
