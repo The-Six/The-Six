@@ -1,7 +1,7 @@
 ![MasterHead](https://thumbs.gfycat.com/BlindAmusedGiraffe-size_restricted.gif)
 <!-- https://i.imgur.com/2NOZvY6.gif -->
 <h1 align="center">Hi 👋, I'm Ijaz Driscoll</h1>
-<h3 align="center">"Keep Moving Forward" --<a href="https://www.youtube.com/watch?v=eEdmF8fBB8M">Azzarp</a></h3>
+<h3 align="center">"Keep Moving Forward" --<a href="https://www.youtube.com/watch?v=eEdmF8fBB8M" target="_blank" rel="noopener noreferrer">Azzarp</a></h3>
 
 <img align="right" alt="Coding" width="auto" src="https://media.tenor.com/H491P3ZD79UAAAAC/kirokaze.gif" />
 <!-- https://wallpapercave.com/uwp/uwp1465036.gif -->
