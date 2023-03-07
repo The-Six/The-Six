@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [my-portfolio](https://github.com/The-Six/my-portfolio)
 
-- 🌱 I’m currently learning **IBM Enterprise Design Thinking**
+- 🌱 I’m currently learning **IBM Enterprise Design Thinking Co-Creator Course**
 
 - 💬 Ask me about **Next.js, JavaScript, HTML5, CSS3 and Git.**
 
