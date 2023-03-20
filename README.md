@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [my-portfolio](https://github.com/The-Six/my-portfolio)
 
-- 🌱 I’m currently learning **IBM Information Technology Fundamentals**
+- 🌱 I’m currently learning **LearnVern Testing Fundamentals**
 
 - 💬 Ask me about **Next.js, JavaScript, HTML5, CSS3 and Git.**
 
