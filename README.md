@@ -1,7 +1,7 @@
 ![MasterHead](https://thumbs.gfycat.com/BlindAmusedGiraffe-size_restricted.gif)
 <!-- https://i.imgur.com/2NOZvY6.gif -->
 <h1 align="center">Hi 👋, I'm Ijaz Driscoll</h1>
-<h3 align="center">"Keep Moving Forward" --<a href="https://www.youtube.com/watch?v=eEdmF8fBB8M" target="_blank">Azzarp</a></h3>
+<h3 align="center">"We feel and know that we are eternal."&nbsp;-&nbsp;<a href="https://www.youtube.com/watch?v=XUoPjg--2lA" target="_blank">Benedict de Spinoza</a></h3>
 
 <img align="right" alt="Coding" width="auto" src="https://media.tenor.com/H491P3ZD79UAAAAC/kirokaze.gif" />
 <!-- https://wallpapercave.com/uwp/uwp1465036.gif -->
