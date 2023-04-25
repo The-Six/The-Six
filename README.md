@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Official (ISC)² Certified in Cybersecurity**
 
-- 💬 Ask me about **Next.js, JavaScript, HTML5, CSS3 and Git.**
+- 💬 Ask me about **React.js, Next.js, JavaScript, HTML5, CSS3 and Git.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ijaz-driscoll-9709541b9/**
 
