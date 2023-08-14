@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [my-portfolio](https://github.com/The-Six/my-portfolio)
 
-- 🌱 I’m currently learning **Official (ISC)² Certified in Cybersecurity**
+- 🌱 I’m currently learning **Information Security with HelmetJS**
 
 - 💬 Ask me about **React.js, Next.js, JavaScript, HTML5, CSS3 and Git.**
 
